@@ -1,4 +1,5 @@
-# [Lighthouse] Desafio Ciência de Dados 2024
+#LH_CD_LUCASBARBOSA
+## [Lighthouse] Desafio Ciência de Dados 2024
 
 ## Descrição
 Este projeto desenvolve um sistema de predição de preços utilizando um modelo de redes neurais. O modelo é treinado para prever preços com base em características fornecidas. O projeto utiliza Python e Keras para a criação do modelo, juntamente com várias outras bibliotecas para pré-processamento de dados e análise exploratória. Vários algoritmos de regressão foram testados, mas as redes neurais apresentaram um resultado superior levando o conjunto de métricas em questão
