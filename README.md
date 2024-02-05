@@ -1,4 +1,4 @@
-#LH_CD_LUCASBARBOSA
+# LH_CD_LUCASBARBOSA
 ## [Lighthouse] Desafio Ciência de Dados 2024
 
 ## Descrição
